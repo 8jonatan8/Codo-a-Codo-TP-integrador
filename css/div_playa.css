@@ -1,0 +1,29 @@
+.playa{
+    overflow: hidden; /* es para cortar la flotacion */
+}
+.imagen_playa {
+    float: left;
+    max-width: 50%;
+   padding: 10px;
+}
+
+.playa .btn {
+    width: 120px;
+}
+
+.playa_titulo {
+   
+    font-size: 25px;
+    padding: 1.25rem;
+}
+
+.playa_texto {
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+.formulario {
+    text-align: center;
+    
+}
+
+.titulo_h5 {
+    display: inline-block;
+    flex-wrap: wrap;
+    
+}
+
+.container_formulario{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.formulario_parrafo {
+    text-align: left;
+}
+
+.parrafo_negrita {
+    font-weight: 400;
+}
+
+
+
+.btn {
+    width: 100%;
+    
+}

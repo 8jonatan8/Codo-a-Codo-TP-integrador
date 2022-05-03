@@ -1,0 +1,64 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    min-height: 70px;
+    background: #313131;
+    align-items: center;
+    padding: 15px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.logo .imagen {
+    display: flex;
+    width: 9rem;
+    height: 5rem;
+    margin-right: 10px;
+}
+
+.primero {
+    color: #fff;
+}
+
+.gris {
+    color: darkgrey;
+}
+
+nav a{
+    
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1rem;
+    display: flex;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+
+.tickets {
+    color: green;
+}
+
+@media (max-width:700px){
+    header{
+        flex-direction: column;
+    }
+
+    nav{
+        padding: 10px 0px;
+    }
+}

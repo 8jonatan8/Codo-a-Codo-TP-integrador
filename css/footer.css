@@ -1,0 +1,17 @@
+.footer {
+    margin-top: 15px;
+    font-weight: bold;
+    background-color: rgb(35, 59, 93);
+    padding: 1rem;
+    
+}
+
+.container_footer {
+    background-color: rgb(35, 59, 93);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.col:hover {
+    text-decoration: underline;
+}
